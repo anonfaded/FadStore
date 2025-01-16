@@ -1,0 +1,11 @@
+{
+    "store_name": "FadStore",
+    "store_version": "1.0.0",
+    "min_app_version": "1.0.0",
+    "maintenance_mode": false,
+    "maintenance_message": "Store is under maintenance",
+    "apps": [
+        "fadcam",
+        "fadveil"
+    ]
+}
