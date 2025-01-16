@@ -1,0 +1,80 @@
+{
+    "name": "FadCam",
+    "description": "Seamless background video recorder for Android – ad-free and open-source, with customizable options. FadCam allows you to record videos in the background while using other apps, perfect for tutorials, gameplay recording, or any scenario where you need to capture screen content while multitasking.",
+    "short_description": "Background video recorder with advanced features",
+    "category": "Video & Photography",
+    "package_name": "com.fadedhood.fadcam",
+    "apk_urls": {
+        "arm64": "https://github.com/anonfaded/FadCam/releases/download/v1.2.1-beta/FadCam-v1.2.1-beta-arm64-v8a-release.apk",
+        "armeabi": "https://github.com/anonfaded/FadCam/releases/download/v1.2.1-beta/FadCam-v1.2.1-beta-armeabi-v7a-release.apk",
+        "universal": "https://github.com/anonfaded/FadCam/releases/download/v1.2.1-beta/FadCam-v1.2.1-beta-universal-release.apk",
+        "x86": "https://github.com/anonfaded/FadCam/releases/download/v1.2.1-beta/FadCam-v1.2.1-beta-x86-release.apk",
+        "x86_64": "https://github.com/anonfaded/FadCam/releases/download/v1.2.1-beta/FadCam-v1.2.1-beta-x86_64-release.apk"
+    },
+    "version": "1.2.1-beta",
+    "version_code": 121,
+    "min_sdk": 29,
+    "target_sdk": 34,
+    "size_bytes": 5242880,
+    "last_updated": "2025-01-15",
+    "screenshots": [
+        "screenshots/main.png",
+        "screenshots/settings.png",
+        "screenshots/recording.png"
+    ],
+    "features": [
+        "Background video recording",
+        "Custom resolution and bitrate",
+        "Picture-in-picture mode",
+        "Auto-start on boot",
+        "Floating controls"
+    ],
+    "changelog": [
+        {
+            "version": "1.2.1-beta",
+            "date": "2025-01-15",
+            "changes": [
+                "Added picture-in-picture mode",
+                "Improved battery optimization",
+                "Fixed crash on Android 14"
+            ]
+        },
+        {
+            "version": "1.2.0",
+            "date": "2024-12-25",
+            "changes": [
+                "Initial release with core features",
+                "Background recording capability",
+                "Basic settings interface"
+            ]
+        }
+    ],
+    "permissions": [
+        {
+            "name": "RECORD_AUDIO",
+            "reason": "Required for capturing audio during video recording"
+        },
+        {
+            "name": "SYSTEM_ALERT_WINDOW",
+            "reason": "Needed for floating control buttons"
+        }
+    ],
+    "developer": {
+        "name": "FadedHood",
+        "website": "https://github.com/anonfaded",
+        "email": "contact@fadedhood.com",
+        "privacy_policy": "https://github.com/anonfaded/FadCam/privacy-policy.md"
+    },
+    "rating": {
+        "average": 4.8,
+        "total_ratings": 42,
+        "distribution": {
+            "5": 35,
+            "4": 5,
+            "3": 1,
+            "2": 1,
+            "1": 0
+        }
+    },
+    "status": "active"
+}
