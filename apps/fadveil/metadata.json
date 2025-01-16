@@ -1,9 +1,71 @@
 {
-    "name": "FadVeil",
-    "description": "Conceal unwanted screen areas or dim pixels for improved focus.",
-    "apk_urls": {},
-    "version": "0.0.1",
-    "last_updated": "2025-01-15",
-    "status": "inactive"
-  }
-  
+  "name": "FadVeil",
+  "description": "",
+  "short_description": "",
+  "category": "Video & Photography",
+  "package_name": "",
+  "apk_urls": {
+      "arm64": "https://github.com/anonfaded/FadCam/releases/download/v1.2.1-beta/FadCam-v1.2.1-beta-arm64-v8a-release.apk",
+      "armeabi": "",
+      "universal": "",
+      "x86": "",
+      "x86_64": ""
+  },
+  "version": "1.2.1-beta",
+  "version_code": 121,
+  "min_sdk": 29,
+  "target_sdk": 34,
+  "size_bytes": 5242880,
+  "last_updated": "2025-01-15",
+  "screenshots": [
+      "screenshots/main.png",
+      "screenshots/settings.png",
+      "screenshots/recording.png"
+  ],
+  "features": [
+      "Background video recording",
+      "Custom resolution and bitrate",
+      "Picture-in-picture mode",
+      "Auto-start on boot",
+      "Floating controls"
+  ],
+  "changelog": [
+      {
+          "version": "1.0",
+          "date": "2025-01-15",
+          "changes": [
+              "Added picture-in-picture mode",
+              "Improved battery optimization",
+              "Fixed crash on Android 14"
+          ]
+      }
+  ],
+  "permissions": [
+      {
+          "name": "RECORD_AUDIO",
+          "reason": "Required for capturing audio during video recording"
+      },
+      {
+          "name": "SYSTEM_ALERT_WINDOW",
+          "reason": "Needed for floating control buttons"
+      }
+  ],
+  "developer": {
+      "name": "FadedHood",
+      "website": "https://github.com/anonfaded",
+      "email": "contact@fadedhood.com",
+      "privacy_policy": "https://github.com/anonfaded/FadCam/privacy-policy.md"
+  },
+  "rating": {
+      "average": 4.8,
+      "total_ratings": 429,
+      "distribution": {
+          "5": 35,
+          "4": 5,
+          "3": 1,
+          "2": 1,
+          "1": 0
+      }
+  },
+  "status": "active"
+}
