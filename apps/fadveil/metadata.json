@@ -17,6 +17,7 @@
   "target_sdk": 34,
   "size_bytes": 5242880,
   "last_updated": "2025-01-15",
+  "tvBanner": "banner.png",
   "screenshots": [
       "screenshots/1.png",
       "screenshots/2.png",
