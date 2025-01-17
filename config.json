@@ -2,6 +2,7 @@
     "store_name": "FadStore",
     "store_version": "1.0.0",
     "maintenance_mode": false,
+<<<<<<< HEAD
     "maintenance_message": "Store is under maintenance",
     "base_url": "https://raw.githubusercontent.com/anonfaded/FadStore/main/apps",
     "apps": ["fadcam", "fadveil"],
@@ -19,4 +20,11 @@
             "screenshot_count": 3
         }
     }
+=======
+    "maintenance_message": "FadStore is currently under maintenance. We'll be back soon!",
+    "apps": [
+        "fadcam",
+        "fadveil"
+    ]
+>>>>>>> 2f02943e277a21c3c58a39d9d82fdac6bf32c129
 }
