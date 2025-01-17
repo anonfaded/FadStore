@@ -3,7 +3,7 @@
     "description": "Seamless background video recorder for Android – ad-free and open-source, with customizable options. FadCam allows you to record videos in the background while using other apps, perfect for tutorials, gameplay recording, or any scenario where you need to capture screen content while multitasking.",
     "short_description": "Background video recorder with advanced features",
     "category": "Video & Photography",
-    "package_name": "com.fadedhood.fadcam",
+    "package_name": "com.fadcam",
     "apk_urls": {
         "arm64": "https://github.com/anonfaded/FadCam/releases/download/v1.2.1-beta/FadCam-v1.2.1-beta-arm64-v8a-release.apk",
         "armeabi": "https://github.com/anonfaded/FadCam/releases/download/v1.2.1-beta/FadCam-v1.2.1-beta-armeabi-v7a-release.apk",
@@ -18,9 +18,11 @@
     "size_bytes": 5242880,
     "last_updated": "2025-01-15",
     "screenshots": [
-        "screenshots/main.png",
-        "screenshots/settings.png",
-        "screenshots/recording.png"
+        "screenshots/1.png",
+        "screenshots/2.png",
+	"screenshots/3.png",
+	"screenshots/4.png",
+        "screenshots/5.png"
     ],
     "features": [
         "Background video recording",

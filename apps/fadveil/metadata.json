@@ -1,6 +1,6 @@
 {
   "name": "FadVeil",
-  "description": "",
+  "description": " test ",
   "short_description": "",
   "category": "Video & Photography",
   "package_name": "",
@@ -18,14 +18,12 @@
   "size_bytes": 5242880,
   "last_updated": "2025-01-15",
   "screenshots": [
-      "screenshots/main.png",
-      "screenshots/settings.png",
-      "screenshots/recording.png"
+      "screenshots/1.png",
+      "screenshots/2.png",
+      "screenshots/3.png"
   ],
   "features": [
       "Background video recording",
-      "Custom resolution and bitrate",
-      "Picture-in-picture mode",
       "Auto-start on boot",
       "Floating controls"
   ],
