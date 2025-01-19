@@ -1,9 +1,9 @@
 {
   "name": "FadVeil",
   "description": " test5 ",
-  "short_description": "",
+  "short_description": " nothing ",
   "category": "Video & Photography",
-  "package_name": "",
+  "package_name": "com.fadedhood.fadveil",
   "apk_urls": {
       "arm64": "",
       "armeabi": "",
