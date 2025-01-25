@@ -1,7 +1,7 @@
 {
   "name": "FadStore",
   "description": " This is a random long description for testing the spacing and paddings of the app card component to see if it can handle this long or not. ",
-  "short_description": "",
+  "short_description": "This is a random short description for testing the spacing and paddings of the app card component",
   "category": "Video & Photography",
   "package_name": "com.fadedhood.fadstore",
   "apk_urls": {
