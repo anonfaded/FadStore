@@ -4,21 +4,25 @@
     "maintenance_mode": false,
     "maintenance_message": "FadStore is currently under maintenance. We'll be back soon!",
     "base_url": "https://raw.githubusercontent.com/anonfaded/FadStore/main/apps",
-    "apps": ["fadcam", "fadveil"],
+    "apps": ["fadcam", "fadveil", "fadstore"],
     "assets_version": {
         "fadcam": {
             "icon": 1,
             "screenshots": 3,
-            "metadata": 2,
-            "screenshot_count": 5,
-            "banner": 1
+            "metadata": 1,
+            "screenshot_count": 5
         },
         "fadveil": {
             "icon": 1,
             "screenshots": 2,
-            "metadata": 3,
-            "screenshot_count": 2,
-            "banner": 1
+            "metadata": 1,
+            "screenshot_count": 2
+        },
+        "fadstore": {
+            "icon": 1,
+            "screenshots": 1,
+            "metadata": 1,
+            "screenshot_count": 1
         }
     }
 }

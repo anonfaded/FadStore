@@ -1,9 +1,9 @@
 {
-  "name": "FadVeil",
-  "description": " test ",
+  "name": "FadStore",
+  "description": " This is a random long description for testing the spacing and paddings of the app card component to see if it can handle this long or not. ",
   "short_description": "",
   "category": "Video & Photography",
-  "package_name": "",
+  "package_name": "com.fadedhood.fadstore",
   "apk_urls": {
       "arm64": "https://github.com/anonfaded/FadCam/releases/download/v1.2.1-beta/FadCam-v1.2.1-beta-arm64-v8a-release.apk",
       "armeabi": "",
@@ -11,12 +11,12 @@
       "x86": "",
       "x86_64": ""
   },
-  "version": "1.2.1-beta",
-  "version_code": 121,
+  "version": "1.0",
+  "version_code": 1,
   "min_sdk": 29,
   "target_sdk": 34,
-  "size_bytes": 5242880,
-  "last_updated": "2025-01-15",
+  "size_bytes": 56242880,
+  "last_updated": "2024-07-15",
   "screenshots": [
       "screenshots/1.png",
       "screenshots/2.png",
@@ -24,6 +24,7 @@
   ],
   "features": [
       "Background video recording",
+      "Auto-start on boot",
       "Auto-start on boot",
       "Floating controls"
   ],
