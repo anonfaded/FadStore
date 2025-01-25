@@ -9,14 +9,16 @@
         "fadcam": {
             "icon": 1,
             "screenshots": 3,
-            "metadata": 1,
-            "screenshot_count": 5
+            "metadata": 2,
+            "screenshot_count": 5,
+            "banner": 1
         },
         "fadveil": {
             "icon": 1,
             "screenshots": 2,
-            "metadata": 1,
-            "screenshot_count": 2
+            "metadata": 3,
+            "screenshot_count": 2,
+            "banner": 1
         }
     }
 }

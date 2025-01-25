@@ -12,16 +12,17 @@
         "x86_64": "https://github.com/anonfaded/FadCam/releases/download/v1.2.1-beta/FadCam-v1.2.1-beta-x86_64-release.apk"
     },
     "version": "1.2.1-beta",
-    "version_code": 121,
+    "version_code": 9,
     "min_sdk": 29,
     "target_sdk": 34,
     "size_bytes": 5242880,
     "last_updated": "2025-01-15",
+    "tvBanner": "banner.png",
     "screenshots": [
         "screenshots/1.png",
         "screenshots/2.png",
-	"screenshots/3.png",
-	"screenshots/4.png",
+        "screenshots/3.png",
+        "screenshots/4.png",
         "screenshots/5.png"
     ],
     "features": [
@@ -79,3 +80,4 @@
         }
     },
     "status": "active"
+}
