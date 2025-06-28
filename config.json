@@ -13,14 +13,14 @@
             "screenshot_count": 10
         },
         "fadveil": {
-            "icon": 1,
-            "screenshots": 2,
+            "icon": 2,
+            "screenshots": 3,
             "metadata": 1,
             "screenshot_count": 2
         },
         "fadstore": {
-            "icon": 1,
-            "screenshots": 3,
+            "icon": 2,
+            "screenshots": 4,
             "metadata": 3,
             "screenshot_count": 3
         }
