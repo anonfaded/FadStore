@@ -7,7 +7,7 @@
     "apps": ["fadcam", "fadveil", "fadstore"],
     "assets_version": {
         "fadcam": {
-            "icon": 1,
+            "icon": 2,
             "screenshots": 5,
             "metadata": 1,
             "screenshot_count": 10
