@@ -59,12 +59,112 @@
     ],
     "permissions": [
         {
-            "name": "RECORD_AUDIO",
-            "reason": "Required for capturing audio during video recording"
+            "name": "ACCESS_COARSE_LOCATION",
+            "reason": "Used for the watermarking feature"
         },
         {
-            "name": "SYSTEM_ALERT_WINDOW",
-            "reason": "Needed for floating control buttons"
+            "name": "ACCESS_FINE_LOCATION",
+            "reason": "Used for the watermarking feature"
+        },
+        {
+            "name": "ACCESS_NETWORK_STATE",
+            "reason": "Checks network connectivity for uploads and updates"
+        },
+        {
+            "name": "BLUETOOTH",
+            "reason": "Allows Bluetooth connectivity for external devices"
+        },
+        {
+            "name": "BLUETOOTH_ADMIN",
+            "reason": "Manages Bluetooth connections"
+        },
+        {
+            "name": "BLUETOOTH_CONNECT",
+            "reason": "Connects to Bluetooth devices"
+        },
+        {
+            "name": "BLUETOOTH_SCAN",
+            "reason": "To allow using an external microphone via Bluetooth"
+        },
+        {
+            "name": "CAMERA",
+            "reason": "Required for video recording"
+        },
+        {
+            "name": "FOREGROUND_SERVICE",
+            "reason": "Runs recording as a foreground service"
+        },
+        {
+            "name": "android.permission.FOREGROUND_SERVICE_CAMERA",
+            "reason": "Foreground service for camera usage"
+        },
+        {
+            "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+            "reason": "Foreground service for media projection"
+        },
+        {
+            "name": "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            "reason": "Foreground service for microphone usage"
+        },
+        {
+            "name": "HIGH_SAMPLING_RATE_SENSORS",
+            "reason": "Enables high-quality sensor data for advanced features"
+        },
+        {
+            "name": "INTERNET",
+            "reason": "Required for uploading and updates"
+        },
+        {
+            "name": "MODIFY_AUDIO_SETTINGS",
+            "reason": "Adjusts audio settings for recording"
+        },
+        {
+            "name": "POST_NOTIFICATIONS",
+            "reason": "Sends notifications for recording status"
+        },
+        {
+            "name": "QUERY_ALL_PACKAGES",
+            "reason": "To find compatible apps for uploads to YouTube/Google Drive"
+        },
+        {
+            "name": "READ_EXTERNAL_STORAGE",
+            "reason": "Implicitly granted due to the write permission"
+        },
+        {
+            "name": "READ_MEDIA_VIDEO",
+            "reason": "Needed to access videos on-device"
+        },
+        {
+            "name": "RECORD_AUDIO",
+            "reason": "Required to include audio with the recordings"
+        },
+        {
+            "name": "REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            "reason": "Ensures uninterrupted background recording"
+        },
+        {
+            "name": "USE_BIOMETRIC",
+            "reason": "Allows biometric authentication for security"
+        },
+        {
+            "name": "VIBRATE",
+            "reason": "Provides haptic feedback during recording"
+        },
+        {
+            "name": "WAKE_LOCK",
+            "reason": "Prevents device from sleeping during recording"
+        },
+        {
+            "name": "WRITE_EXTERNAL_STORAGE",
+            "reason": "Used to store the recordings"
+        },
+        {
+            "name": "android.permission.WRITE_MEDIA_VIDEO",
+            "reason": "Allows writing video files to media storage"
+        },
+        {
+            "name": "DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "reason": "Required for secure broadcast receivers"
         }
     ],
     "developer": {
